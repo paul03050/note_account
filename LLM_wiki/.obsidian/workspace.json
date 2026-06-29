@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "raw/01-articles/成本會計職能.md",
+                "file": "AGENTS.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "成本會計職能 的大綱"
+              "title": "AGENTS 的大綱"
             }
           }
         ],
@@ -185,8 +185,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "18771e503f504f51",
+  "active": "858b9507ef50d964",
   "lastOpenFiles": [
+    "raw/01-articles/成本會計職能.md",
     "raw/09-archive/01-articles/成本會計職能.md",
     "raw/09-archive/01-articles",
     "wiki/entities/ERP.md",
@@ -195,7 +196,6 @@
     "raw/03-transcripts",
     "raw/02-papers",
     "AGENTS.md",
-    "raw/01-articles/成本會計職能.md",
     "raw/01-articles/anthropicsskills Public repository for Agent Skills.md",
     "wiki/index.md",
     "wiki/log.md",

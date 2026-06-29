@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:企业资源计划",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,8 @@
               "title": "書籤"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -185,7 +186,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "858b9507ef50d964",
+  "active": "d4b0c462b5437e06",
   "lastOpenFiles": [
     "wiki/log.md",
     "wiki/index.md",

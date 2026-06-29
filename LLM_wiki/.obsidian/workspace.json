@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/index.md",
+                "file": "raw/01-articles/anthropicsskills Public repository for Agent Skills.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "anthropicsskills Public repository for Agent Skills"
             }
           }
         ]
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "wiki/index.md",
+                "file": "raw/01-articles/anthropicsskills Public repository for Agent Skills.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "index 的大綱"
+              "title": "anthropicsskills Public repository for Agent Skills 的大綱"
             }
           }
         ],
@@ -186,9 +186,9 @@
   },
   "active": "858b9507ef50d964",
   "lastOpenFiles": [
+    "wiki/index.md",
     "wiki/log.md",
     "raw/01-articles/anthropicsskills Public repository for Agent Skills.md",
-    "wiki/index.md",
     "Clippings/skillsskillsskill-creatorSKILL.md at main.md",
     "Clippings",
     "AGENTS.md"

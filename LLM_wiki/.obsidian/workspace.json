@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/index.md",
+                "file": "wiki/log.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "log"
             }
           }
         ]
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "wiki/index.md",
+                "file": "wiki/log.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "index 的大綱"
+              "title": "log 的大綱"
             }
           }
         ],
@@ -187,6 +187,7 @@
   },
   "active": "858b9507ef50d964",
   "lastOpenFiles": [
+    "wiki/index.md",
     "raw/09-archive/01-articles/成本會計職能.md",
     "AGENTS.md",
     "raw/01-articles/成本會計職能.md",
@@ -197,7 +198,6 @@
     "raw/03-transcripts",
     "raw/02-papers",
     "raw/01-articles/anthropicsskills Public repository for Agent Skills.md",
-    "wiki/index.md",
     "wiki/log.md",
     "Clippings/skillsskillsskill-creatorSKILL.md at main.md",
     "Clippings"
